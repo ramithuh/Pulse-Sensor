@@ -12,5 +12,5 @@
 \contentsline {subsubsection}{\numberline {4.5.1}Calculations}{7}{subsubsection.4.5.1}
 \contentsline {section}{\numberline {5}Enclosure and PCB Design}{8}{section.5}
 \contentsline {section}{\numberline {6}Implementation and Results}{9}{section.6}
-\contentsline {section}{\numberline {7}Online Materials}{10}{section.7}
-\contentsline {section}{\numberline {8}Conclusion}{11}{section.8}
+\contentsline {section}{\numberline {7}Conclusion}{10}{section.7}
+\contentsline {section}{\numberline {8}Online Materials}{11}{section.8}

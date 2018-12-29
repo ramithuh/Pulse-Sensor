@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1546071988 "main.aux" "main.bbl" "main" 1546071990
+["bibtex main"] 1546073468 "main.aux" "main.bbl" "main" 1546073513
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/base/plain.bst" 1480098433 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "biblist.bib" 1546071879 569 885073fed4e8529475d54af346bd044f ""
-  "main.aux" 1546071990 2372 8d6b57271844f5466e3768af36582052 ""
+  "main.aux" 1546073513 2372 96ee63e4750817109c64107b362cd7a7 ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1546071989 "/Users/ramith/170221T/OneDrive - University of Moratuwa/Laboratory Practice/Lab Project Pulse Sensor/Pulse Sensor/latex_project_report/main.tex" "main.pdf" "main" 1546071990
-  "/Users/ramith/170221T/OneDrive - University of Moratuwa/Laboratory Practice/Lab Project Pulse Sensor/Pulse Sensor/latex_project_report/main.tex" 1546071984 8761 548d1c50dd6eaee312d51324588b9709 ""
+  "main.bbl"
+["pdflatex"] 1546073512 "/Users/ramith/170221T/OneDrive - University of Moratuwa/Laboratory Practice/Lab Project Pulse Sensor/Pulse Sensor/latex_project_report/main.tex" "main.pdf" "main" 1546073513
+  "/Users/ramith/170221T/OneDrive - University of Moratuwa/Laboratory Practice/Lab Project Pulse Sensor/Pulse Sensor/latex_project_report/main.tex" 1546073511 8767 a486c68d74585e010c0db85650ac42a3 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1480098667 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -178,14 +178,14 @@
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "images/LM358-Bandpass.eps" 1546063255 36354 521a9b5350bb0b72f34f9569d52d94ca ""
   "images/uom.png" 1545403028 104331 ee402aed2d6345e92bb288354dfc0e86 ""
-  "main.aux" 1546071990 2372 8d6b57271844f5466e3768af36582052 ""
-  "main.bbl" 1546071989 556 9c02b9ae230d7b0664e9a5aa0ee2d69d "bibtex main"
-  "main.out" 1546071990 875 ac7b919e1c4876b5d664f457bff19a05 ""
-  "main.tex" 1546071984 8761 548d1c50dd6eaee312d51324588b9709 ""
-  "main.toc" 1546071990 1166 10cd4f970c0ed5c0b5987ca081ebe2cb ""
+  "main.aux" 1546073513 2372 96ee63e4750817109c64107b362cd7a7 ""
+  "main.bbl" 1546073468 556 9c02b9ae230d7b0664e9a5aa0ee2d69d "bibtex main"
+  "main.out" 1546073513 875 159eaa992bfcfcf1b02058268062099f ""
+  "main.tex" 1546073511 8767 a486c68d74585e010c0db85650ac42a3 ""
+  "main.toc" 1546073513 1166 7d95cd184b3a651d63515f317354b84d ""
   (generated)
-  "main.aux"
-  "main.log"
-  "main.pdf"
   "main.out"
   "main.toc"
+  "main.pdf"
+  "main.log"
+  "main.aux"
