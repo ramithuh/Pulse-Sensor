@@ -1,7 +1,7 @@
 DEPARTMENT OF ELECTRONIC AND TELECOMMUNICATION ENGINEERING\
  UNIVERSITY OF MORATUWA\
 
-![image](uom.png)\
+![image](uom2.png)\
 Group Project Report\
 EN1093 - Laboratory Practice\
 
