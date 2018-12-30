@@ -1,39 +1,5 @@
-DEPARTMENT OF ELECTRONIC AND TELECOMMUNICATION ENGINEERING\
- UNIVERSITY OF MORATUWA\
+#### EN1093 - Laboratory Practice - Group Project 
 
-![image](uom2.png)\
-Group Project Report\
-EN1093 - Laboratory Practice\
+[https://blog.ramith.fyi/static/creating-a-pulse-sensor-from-scratch](https://blog.ramith.fyi/static/creating-a-pulse-sensor-from-scratch)
 
-* * * * *
-
-\
-<span> ****</span>\
-
-* * * * *
-
-\
-
-<span>0.4</span>
-
-*Authors:*\
-K.K. Herath\
-H.M.U.D Herath\
-R.U. Hettiarachchi\
-M.N. Hettiaratchchi
-
- 
-
-<span>0.4</span>
-
-*Registration Number:*\
-170213V\
-170215U\
-170221T\
-170222X
-
-\
-This is submitted as a partial fulfillment for the module EN1093\
-—\
-\# Pulse-Sensor
-A project carried out for the module EN1093
+![alt text](summary.gif)
