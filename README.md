@@ -2,4 +2,5 @@
 
 [https://blog.ramith.fyi/static/creating-a-pulse-sensor-from-scratch](https://blog.ramith.fyi/static/creating-a-pulse-sensor-from-scratch)
 
-![alt text](summary.gif)
+<img src="summary.gif" alt="drawing" style="height:200px;"/>
+
