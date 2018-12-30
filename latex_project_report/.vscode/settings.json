@@ -8,5 +8,13 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "latex-workshop.synctex.afterBuild.enabled": true,
-    "latex-workshop.latex.autoBuild.onSave.enabled":true
+    "latex-workshop.latex.autoBuild.onSave.enabled": true,
+    "spellright.language": [
+      "en"
+    ],
+    "spellright.documentTypes": [
+      "markdown",
+      "latex",
+      "plaintext"
+    ]
   }

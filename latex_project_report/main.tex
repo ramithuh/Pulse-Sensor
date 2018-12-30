@@ -6,13 +6,21 @@
 \usepackage{hyperref}
 \usepackage{circuitikz}
 \usepackage{url}
+\usepackage{placeins}
 \usepackage[utf8x]{inputenc} 
 \usepackage{amsmath}
 \usepackage{graphicx}
+
 \graphicspath{{images/}}
 \usepackage{parskip}
 \usepackage{fancyhdr}
 \usepackage{vmargin}
+
+\usepackage{subfig}
+
+\usepackage{siunitx}
+
+
 \setmarginsrb{3 cm}{2.5 cm}{3 cm}{2.5 cm}{1 cm}{1.5 cm}{1 cm}{1.5 cm}
 
 
@@ -22,21 +30,24 @@
 \definecolor{dkgreen}{rgb}{0,0.6,0}
 \definecolor{gray}{rgb}{0.5,0.5,0.5}
 \definecolor{mauve}{rgb}{0.58,0,0.82}
-\lstset{frame=tb,
+\lstset{
   language=Java,
   aboveskip=3mm,
   belowskip=3mm,
   showstringspaces=false,
   columns=flexible,
   basicstyle={\small\ttfamily},
-  numbers=none,
   numberstyle=\tiny\color{gray},
   keywordstyle=\color{blue},
   commentstyle=\color{dkgreen},
   stringstyle=\color{mauve},
   breaklines=true,
   breakatwhitespace=true,
-  tabsize=3
+  tabsize=3,
+  numbers=left,
+  xleftmargin=2em,
+  frame=single,
+  framexleftmargin=1.5em
 }
 
 %%%%%%%% to embed code %%%%%%%%%%%%%%
@@ -115,13 +126,13 @@ The lighting condition in the environment is very important to avoid distortion 
 
 • To use a band filter to remove unnecessary wavelengths.
 
-Based on the refined output signal, we used an Atmel microcontroller to calculate and display the heart rate through the segment display.
+Based on the refined output signal, we used an Atmel microcontroller to calculate and display the heart rate through the LCD Display.
 
 \section{Acknowledgement}
 We would like to express our gratitude to our supervisor Mr.Asanka Rathnayake for giving us technical advice and guidance.\\
 Our sincere thanks goes to Mr.Thilina Sameera Ambagahawaththa for the inspiration and advice given to us to compile this report in LaTeX.
 
-We pay our gratitude to all the lecturers, instructors and other academic staff who intimately welcomed us to share their knowledge and experiences. We are very grateful to the personal who are in charge of laboratories for allowing us to use the laboratories when needed and supported to solve the technical problems.
+We pay our gratitude to all the lecturers, instructors and other academic staff who intimately welcomed us to share their knowledge and experiences. We are very grateful to the personnel who are in charge of laboratories for allowing us to use the laboratories when needed and for the support given to solve technical problems.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
@@ -136,31 +147,85 @@ This is a simple report template with the UCT logo. Feel free to use/modify it t
 A Table of Contents and a bibliography have also been implemented. To add entries to your bibliography, simply edit \texttt{biblist.bib} in the root folder and then use the \texttt{\textbackslash cite\{\ldots\}} command in \texttt{main.tex} \cite{ppg_wiki}. The Table of Contents will be updated automatically.
 I hope that you find this template both visually appealing and useful. \\
 \hspace{1 cm}--- Linus
-\subsection{PPG}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 \section{Methodology}
-	\subsection{Sensor}
-	\lipsum[45]
 
-	
-	\begin{figure}[h]
-		\subsection{Amplifier and Filter}
-		The typical heart rate of a person is between 50-150Bpm\\
-	
+	The methodology can be summarized to the following block diagram.
+
+
+	\subsection{Sensor}
+	\lipsum[5]
+	\begin{figure}[!htbp]  %this figure will be at the right
+
 		\centering
-		\includegraphics[width=\textwidth]{LM358-Bandpass}
+		\includegraphics[width=0.65\textwidth]{sensing.jpg}
+		\caption{How IR LED light is reflected from the blood vessels}
 	\end{figure}
 
+
+		\subsection{Amplification and Filtering}
+		
+		To amplify the PPG signal we designed an amplifier circuit. However we observed that without proper filtering we cannot get a clear signal due to noise.
+		So we had to determine the necessary values for the filter circuit.\\
+		The typical heart rate of an adult is between 60-100bpm\cite{typical_pulse}.In frequency terms, these values correspond to the range 1-1.7 Hz.So an active bandpass filter circuit was designed to provide the following characteristics using LM358.
+
+
+\subsubsection{Calculations}
+\begin{center}
+	Cutoff frequency ($f$) = $\frac{1}{2\pi RC}$
 	
+	
+	
+	Lower cutoff frequency =$\ \frac{1}{2\pi ( 680\ k\si{\ohm}\ )( 100\ nF)}$ = 2.34051 Hz
+	
+	
+	
+	Upper cutoff frequency =$\ \frac{1}{2 \pi  ( 47\ k\si{\ohm})( 4.7\ \si{\micro}F)}$ = 0.720484 Hz
+	\end{center}
+	
+	
+	
+	
+	
+	So we have,
+
+		\begin{itemize}
+			\item Gain of 10
+			\item Lower Cutoff Frequency of 0.72 Hz
+			\item Upper Cutoff Frequency of 2.34 Hz\\
+		  \end{itemize}
+		 To have a low powered operational amplifier we selected LM358 integrated circuit.
+	
+		\begin{figure}[!htbp]
+			\includegraphics[width=\textwidth]{LM358-Bandpass}
+			\caption{Active bandpass filter for the pulse sensor}
+		\end{figure}
+	
+		\clearpage
+	\subsection{Calculating BPM from the analog signal}
+	The ATMega32 microcontroller was used to sample the analog signal to 0-1023 voltage levels. Then an algorithm was developed to identify peaks and thereby calculate the beats per minute. We used Atmel Studio to compile and flash the hex file to the microcontroller. 
 
 
+	\subsubsection{Microcontroller}
+Basic info about the microcontroller goes here.
 
-	\subsection{Microcontroller}
+\subsubsection{Obtaining a threshold value}
+Give basic info on how threshold was determined.
+
+\subsubsection{Algorithm}
+can include the flowchat, and code here
+
 	\begin{lstlisting}
 		/*  Group 7 | UoM | ENTC 17Batch  */
 		#ifndef F_CPU
@@ -178,7 +243,7 @@ I hope that you find this template both visually appealing and useful. \\
 		#define EN eS_PORTC7
 		
 		#include <avr/io.h>
-		#include <util/delay.h>x
+		#include <util/delay.h>
 		#include "stdlib.h"
 		#include "string.h"
 		#include "lcd.h"
@@ -186,7 +251,7 @@ I hope that you find this template both visually appealing and useful. \\
 		char disp[16]="0000000000000001";
 		char result[8] = "00000001"; 
 		
-		void lcd_disp(char arr[],int r,int c,char w[]){  
+		void lcd_disp(char arr[],int r,int c,char w[]){
 			if(w=="clear")Lcd8_Clear();
 			Lcd8_Set_Cursor(r,c);
 			Lcd8_Write_String(arr);
@@ -196,7 +261,7 @@ I hope that you find this template both visually appealing and useful. \\
 			DDRA=0x0;			/* Make ADC port as input */
 			ADCSRA = 0x87;			/* Enable ADC, fr/128  */
 			ADMUX = 0x40;			/* Vref: Avcc, ADC channel: 0 */
-			
+		}
 		
 		int ADC_Read(char channel){
 			int Ain,AinLow;
@@ -217,11 +282,9 @@ I hope that you find this template both visually appealing and useful. \\
 		
 		int main(void){
 		
-		
 			DDRD = 0xFF;  // #
 			DDRC = 0xFF;  //for lcd
 			DDRA = 0x00;  //Analog input
-			
 			
 			ADC_Init();
 			
@@ -230,15 +293,13 @@ I hope that you find this template both visually appealing and useful. \\
 			lcd_disp("Meter",2,0,"");
 			
 			_delay_ms(3000);
-		
 			int i;
 		
 			for(i=0;i>=0;i++){	
 				
 				char temp[11]="Analog - ";
 				char val[4]; // 0 - 255 value
-		
-			
+	
 				itoa(ADC_Read(0),val,10);
 		
 				strcat(temp,val);
@@ -246,31 +307,41 @@ I hope that you find this template both visually appealing and useful. \\
 				lcd_disp(temp,1,0,"clear");
 				_delay_ms(300);
 			
-			}
-			
-		
-		
+			}	
 		}
 		
 		\end{lstlisting}
-		Based on this \cite{avr_analog} and this datasheet \cite{atmega32_datasheet}
+		Based on this \cite{avr_analog} and this data-sheet \cite{atmega32_datasheet}
 		%% Calibration and Ambient Lighting conditions %% 
-	\subsection{Calibration and Ambient Lighting conditions}
-	\lipsum[99]
-
-	\subsection{Noise Filtering}
-
-	\subsubsection{Calculations}
-	\lipsum[23]
 
 
-\newpage %% Enclosure and PCB Design %%
-\section{Enclosure and PCB Design}
+\subsection{Enclosure and PCB Design}
+
+	
+
+
 
 
 \newpage
 \section{Implementation and Results}
 
+While testing, we observed that due to various lighting conditions, the amplitude of the output  waveform varies. Therefore we came to a conclusion that a hardcoded threshold value will not count the number of peaks accurately. Therefore, we implemented a calibration algorithm.
+\begin{figure}[!htbp]
+	
+	\begin{tabular}{ccc}
+\subfloat[Variying amplitudes]{\includegraphics[width = 2.8in]{test1.jpg}}&
+\subfloat[Amplitude Gradually decreasing]{\includegraphics[width = 2.8in]{test2.jpg}}\\
+	\end{tabular}
+	\end{figure}
+
+\label{sec:results}
+\begin{figure}[!htbp]
+	\centering
+	\includegraphics[scale = 0.35]{res1.jpg}
+	\caption{Filtered Waveform}
+\end{figure}
+
+\clearpage
 
 \begin{circuitikz}
 	\draw
@@ -296,7 +367,7 @@ I hope that you find this template both visually appealing and useful. \\
 
 \newpage
 \section{Online Materials}
-The project has been opensourced on Github. All the diagrams, schematics, PCB designs can be found through our repository.\\\\
+The project has been open sourced on Github. All the diagrams, schematics, PCB designs can be found through our repository.\\\\
 \faGithub\href{https://github.com/ramithuh/Pulse-Sensor}{ https://github.com/ramithuh/Pulse-Sensor}.
 
  

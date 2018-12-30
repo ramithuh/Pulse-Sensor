@@ -11,6 +11,12 @@ Atmega32 datasheet.
 \newblock \url{http://ww1.microchip.com/downloads/en/devicedoc/doc2503.pdf}.
 \newblock Accessed: 2018-11-02.
 
+\bibitem{typical_pulse}
+Harvard heart letter.
+\newblock
+  \url{https://www.health.harvard.edu/heart-health/want-to-check-your-heart-rate-heres-how}.
+\newblock Accessed: 2018-12-30.
+
 \bibitem{ppg_wiki}
 Photoplethysmogram - wikipedia article.
 \newblock \url{https://en.wikipedia.org/wiki/Photoplethysmogram}.

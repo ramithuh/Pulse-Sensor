@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  29 DEC 2018 14:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  30 DEC 2018 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -375,7 +375,9 @@ File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
 \pgf@circ@res@temp=\dimen164
 \pgfstartlinewidth=\dimen165
 \pgf@circ@Rlen=\dimen166
-) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex)) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex) (/usr/local/texlive/2018/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex)) (/usr/local/texlive/2018/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks27
 \inpenc@posthook=\toks28
@@ -463,24 +465,382 @@ Package: vmargin 2004/07/15 V2.5 set document margins (VK)
 Package: vmargin 2004/07/15 V2.5 set document margins (VK)
 \PaperWidth=\dimen176
 \PaperHeight=\dimen177
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count134
-\lst@gtempboxa=\box39
-\lst@token=\toks37
-\lst@length=\count135
-\lst@currlwidth=\dimen178
-\lst@column=\count136
-\lst@pos=\count137
-\lst@lostspace=\dimen179
-\lst@width=\dimen180
-\lst@newlines=\count138
-\lst@lineno=\count139
-\lst@maxwidth=\dimen181
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen178
+\captionmargin@=\dimen179
+\captionwidth=\dimen180
+\caption@tempdima=\dimen181
+\caption@indent=\dimen182
+\caption@parindent=\dimen183
+\caption@hangindent=\dimen184
+)
+\c@ContinuedFloat=\count134
+Package caption Info: hyperref package is loaded.
+)
+\c@KVtest=\count135
+\sf@farskip=\skip58
+\sf@captopadj=\dimen185
+\sf@capskip=\skip59
+\sf@nearskip=\skip60
+\c@subfigure=\count136
+\c@subfigure@save=\count137
+\c@lofdepth=\count138
+\c@subtable=\count139
+\c@subtable@save=\count140
+\c@lotdepth=\count141
+\sf@top=\skip61
+\sf@bottom=\skip62
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/siunitx/siunitx.sty (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/03/05 L3 programming layer (loader) 
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/03/05 L3 programming layer (code)
+\c_max_int=\count142
+\l_tmpa_int=\count143
+\l_tmpb_int=\count144
+\g_tmpa_int=\count145
+\g_tmpb_int=\count146
+\g__intarray_font_int=\count147
+\g__prg_map_int=\count148
+\c_log_iow=\count149
+\l_iow_line_count_int=\count150
+\l__iow_line_target_int=\count151
+\l__iow_one_indent_int=\count152
+\l__iow_indent_int=\count153
+\c_zero_dim=\dimen186
+\c_max_dim=\dimen187
+\l_tmpa_dim=\dimen188
+\l_tmpb_dim=\dimen189
+\g_tmpa_dim=\dimen190
+\g_tmpb_dim=\dimen191
+\c_zero_skip=\skip63
+\c_max_skip=\skip64
+\l_tmpa_skip=\skip65
+\l_tmpb_skip=\skip66
+\g_tmpa_skip=\skip67
+\g_tmpb_skip=\skip68
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count154
+\c__fp_leading_shift_int=\count155
+\c__fp_middle_shift_int=\count156
+\c__fp_trailing_shift_int=\count157
+\c__fp_big_leading_shift_int=\count158
+\c__fp_big_middle_shift_int=\count159
+\c__fp_big_trailing_shift_int=\count160
+\c__fp_Bigg_leading_shift_int=\count161
+\c__fp_Bigg_middle_shift_int=\count162
+\c__fp_Bigg_trailing_shift_int=\count163
+\c__fp_rand_size_int=\count164
+\c__fp_rand_four_int=\count165
+\c__fp_rand_eight_int=\count166
+\l__sort_length_int=\count167
+\l__sort_min_int=\count168
+\l__sort_top_int=\count169
+\l__sort_max_int=\count170
+\l__sort_true_max_int=\count171
+\l__sort_block_int=\count172
+\l__sort_begin_int=\count173
+\l__sort_end_int=\count174
+\l__sort_A_int=\count175
+\l__sort_B_int=\count176
+\l__sort_C_int=\count177
+\l__tl_build_start_index_int=\count178
+\l__tl_build_index_int=\count179
+\l__tl_analysis_normal_int=\count180
+\l__tl_analysis_index_int=\count181
+\l__tl_analysis_nesting_int=\count182
+\l__tl_analysis_type_int=\count183
+\l__regex_internal_a_int=\count184
+\l__regex_internal_b_int=\count185
+\l__regex_internal_c_int=\count186
+\l__regex_balance_int=\count187
+\l__regex_group_level_int=\count188
+\l__regex_mode_int=\count189
+\c__regex_cs_in_class_mode_int=\count190
+\c__regex_cs_mode_int=\count191
+\l__regex_catcodes_int=\count192
+\l__regex_default_catcodes_int=\count193
+\c__regex_catcode_D_int=\count194
+\c__regex_catcode_S_int=\count195
+\c__regex_catcode_L_int=\count196
+\c__regex_catcode_O_int=\count197
+\c__regex_catcode_A_int=\count198
+\c__regex_all_catcodes_int=\count199
+\l__regex_show_lines_int=\count266
+\l__regex_min_state_int=\count267
+\l__regex_max_state_int=\count268
+\l__regex_left_state_int=\count269
+\l__regex_right_state_int=\count270
+\l__regex_capturing_group_int=\count271
+\l__regex_min_pos_int=\count272
+\l__regex_max_pos_int=\count273
+\l__regex_curr_pos_int=\count274
+\l__regex_start_pos_int=\count275
+\l__regex_success_pos_int=\count276
+\l__regex_curr_char_int=\count277
+\l__regex_curr_catcode_int=\count278
+\l__regex_last_char_int=\count279
+\l__regex_case_changed_char_int=\count280
+\l__regex_curr_state_int=\count281
+\l__regex_step_int=\count282
+\l__regex_min_active_int=\count283
+\l__regex_max_active_int=\count284
+\l__regex_replacement_csnames_int=\count285
+\l__regex_match_count_int=\count286
+\l__regex_min_submatch_int=\count287
+\l__regex_submatch_int=\count288
+\l__regex_zeroth_submatch_int=\count289
+\g__regex_trace_regex_int=\count290
+\c_empty_box=\box39
+\l_tmpa_box=\box40
+\l_tmpb_box=\box41
+\g_tmpa_box=\box42
+\g_tmpb_box=\box43
+\l__box_top_dim=\dimen192
+\l__box_bottom_dim=\dimen193
+\l__box_left_dim=\dimen194
+\l__box_right_dim=\dimen195
+\l__box_top_new_dim=\dimen196
+\l__box_bottom_new_dim=\dimen197
+\l__box_left_new_dim=\dimen198
+\l__box_right_new_dim=\dimen199
+\l__box_internal_box=\box44
+\l__coffin_internal_box=\box45
+\l__coffin_internal_dim=\dimen256
+\l__coffin_offset_x_dim=\dimen257
+\l__coffin_offset_y_dim=\dimen258
+\l__coffin_x_dim=\dimen259
+\l__coffin_y_dim=\dimen260
+\l__coffin_x_prime_dim=\dimen261
+\l__coffin_y_prime_dim=\dimen262
+\c_empty_coffin=\box46
+\l__coffin_aligned_coffin=\box47
+\l__coffin_aligned_internal_coffin=\box48
+\l_tmpa_coffin=\box49
+\l_tmpb_coffin=\box50
+\l__coffin_display_coffin=\box51
+\l__coffin_display_coord_coffin=\box52
+\l__coffin_display_pole_coffin=\box53
+\l__coffin_display_offset_dim=\dimen263
+\l__coffin_display_x_dim=\dimen264
+\l__coffin_display_y_dim=\dimen265
+\l__coffin_bounding_shift_dim=\dimen266
+\l__coffin_left_corner_dim=\dimen267
+\l__coffin_right_corner_dim=\dimen268
+\l__coffin_bottom_corner_dim=\dimen269
+\l__coffin_top_corner_dim=\dimen270
+\l__coffin_scaled_total_height_dim=\dimen271
+\l__coffin_scaled_width_dim=\dimen272
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count291
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count292
+\g__xparse_grabber_int=\count293
+\l__xparse_m_args_int=\count294
+\l__xparse_mandatory_args_int=\count295
+\l__xparse_v_nesting_int=\count296
+)
+Package: siunitx 2018-03-20 v2.7m A comprehensive (SI) units package
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen273
+\ar@mcellbox=\box54
+\extrarowheight=\dimen274
+\NC@list=\toks37
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box55
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box56
+\l__siunitx_tmp_dim=\dimen275
+\l__siunitx_tmp_int=\count297
+\l__siunitx_number_mantissa_length_int=\count298
+\l__siunitx_number_uncert_length_int=\count299
+\l__siunitx_round_int=\count300
+\l__siunitx_process_decimal_int=\count301
+\l__siunitx_process_uncertainty_int=\count302
+\l__siunitx_process_fixed_int=\count303
+\l__siunitx_process_integer_min_int=\count304
+\l__siunitx_process_precision_int=\count305
+\l__siunitx_group_min_int=\count306
+\l__siunitx_angle_marker_box=\box57
+\l__siunitx_angle_unit_box=\box58
+\l__siunitx_angle_marker_dim=\dimen276
+\l__siunitx_angle_unit_dim=\dimen277
+\l__siunitx_unit_int=\count307
+\l__siunitx_unit_denominator_int=\count308
+\l__siunitx_unit_numerator_int=\count309
+\l__siunitx_unit_prefix_int=\count310
+\l__siunitx_unit_prefix_base_int=\count311
+\l__siunitx_unit_prefix_gram_int=\count312
+\l__siunitx_number_product_int=\count313
+\c__siunitx_one_fill_skip=\skip71
+\l__siunitx_table_unit_align_skip=\skip72
+\l__siunitx_table_exponent_dim=\dimen278
+\l__siunitx_table_integer_dim=\dimen279
+\l__siunitx_table_mantissa_dim=\dimen280
+\l__siunitx_table_marker_dim=\dimen281
+\l__siunitx_table_result_dim=\dimen282
+\l__siunitx_table_uncert_dim=\dimen283
+\l__siunitx_table_fill_pre_dim=\dimen284
+\l__siunitx_table_fill_post_dim=\dimen285
+\l__siunitx_table_fill_mid_dim=\dimen286
+\l__siunitx_table_pre_box=\box59
+\l__siunitx_table_post_box=\box60
+\l__siunitx_table_mantissa_box=\box61
+\l__siunitx_table_result_box=\box62
+\l__siunitx_table_number_align_skip=\skip73
+\l__siunitx_table_text_align_skip=\skip74
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7244.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7247.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7250.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7253.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7256.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7262.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7277.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7286.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7295.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7304.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7316.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7328.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7340.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7343.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7358.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7370.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numInBookmark with sig. 'om' on line 7417.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7419.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIInBookmark with sig. 'omom' on line 7421.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7425.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \siInBookmark with sig. 'om' on line 7426.
+.................................................
+\g__file_internal_ior=\read2
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+)) (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count314
+\lst@gtempboxa=\box63
+\lst@token=\toks38
+\lst@length=\count315
+\lst@currlwidth=\dimen287
+\lst@column=\count316
+\lst@pos=\count317
+\lst@lostspace=\dimen288
+\lst@width=\dimen289
+\lst@newlines=\count318
+\lst@lineno=\count319
+\lst@maxwidth=\dimen290
  (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count140
-\lst@skipnumbers=\count141
-\lst@framebox=\box40
+\c@lstnumber=\count320
+\lst@skipnumbers=\count321
+\lst@framebox=\box64
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
@@ -490,49 +850,49 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-\AtBeginShipoutBox=\box41
-Package hyperref Info: Link coloring OFF on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
+LaTeX Font Info:    ... okay on input line 72.
+\AtBeginShipoutBox=\box65
+Package hyperref Info: Link coloring OFF on input line 72.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count142
+\c@section@level=\count322
 )
-LaTeX Info: Redefining \ref on input line 61.
-LaTeX Info: Redefining \pageref on input line 61.
-LaTeX Info: Redefining \nameref on input line 61.
+LaTeX Info: Redefining \ref on input line 72.
+LaTeX Info: Redefining \pageref on input line 72.
+LaTeX Info: Redefining \nameref on input line 72.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
  ABD: EveryShipout initializing macros (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count143
-\scratchdimen=\dimen182
-\scratchbox=\box42
-\nofMPsegments=\count144
-\nofMParguments=\count145
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count146
-\MPscratchDim=\dimen183
-\MPnumerator=\count147
-\makeMPintoPDFobject=\count148
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count323
+\scratchdimen=\dimen291
+\scratchbox=\box66
+\nofMPsegments=\count324
+\nofMParguments=\count325
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count326
+\MPscratchDim=\dimen292
+\MPnumerator=\count327
+\makeMPintoPDFobject=\count328
+\everyMPtoPDFconversion=\toks40
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -547,103 +907,152 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) (/usr/local/texlive/2018/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-\c@lstlisting=\count149
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+\c@lstlisting=\count329
 <images/uom.png, id=67, 307.1475pt x 326.21875pt>
 File: images/uom.png Graphic file (type png)
 <use images/uom.png>
-Package pdftex.def Info: images/uom.png  used on input line 72.
+Package pdftex.def Info: images/uom.png  used on input line 83.
 (pdftex.def)             Requested size: 107.50323pt x 114.17827pt.
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/uom.png>] (/usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 114.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 125.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 114.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.127 \newpage
+l.138 \newpage
                [1] (./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  [2]
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 136.
-LaTeX Font Info:    No file OMScmtt.fd. on input line 136.
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 147.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 147.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 136.
+(Font)              for symbol `textbackslash' on input line 147.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+<images/sensing.jpg, id=110, 451.6875pt x 451.6875pt>
+File: images/sensing.jpg Graphic file (type jpg)
+<use images/sensing.jpg>
+Package pdftex.def Info: images/sensing.jpg  used on input line 172.
+(pdftex.def)             Requested size: 277.82788pt x 277.84474pt.
+ [4 <./images/sensing.jpg>]
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 194.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
 Package epstopdf Info: Source file: <images/LM358-Bandpass.eps>
-(epstopdf)                    date: 2018-12-29 11:30:55
-(epstopdf)                    size: 36354 bytes
+(epstopdf)                    date: 2018-12-30 13:00:26
+(epstopdf)                    size: 36355 bytes
 (epstopdf)             Output file: <images/LM358-Bandpass-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-29 11:34:29
-(epstopdf)                    size: 11744 bytes
+(epstopdf)                    date: 2018-12-30 13:01:00
+(epstopdf)                    size: 11748 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/LM358-Bandpass-eps-converted-to.pdf images/LM358-Bandpass.eps>
-(epstopdf)             \includegraphics on input line 156.
+(epstopdf)             \includegraphics on input line 211.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/LM358-Bandpass-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/LM358-Bandpass-eps-converted-to.pdf, id=110, 505.89pt x 354.32375pt>
+<images/LM358-Bandpass-eps-converted-to.pdf, id=117, 505.89pt x 354.32375pt>
 File: images/LM358-Bandpass-eps-converted-to.pdf Graphic file (type pdf)
 <use images/LM358-Bandpass-eps-converted-to.pdf>
-Package pdftex.def Info: images/LM358-Bandpass-eps-converted-to.pdf  used on input line 156.
+Package pdftex.def Info: images/LM358-Bandpass-eps-converted-to.pdf  used on input line 211.
 (pdftex.def)             Requested size: 427.43153pt x 299.37622pt.
-[4 <./images/LM358-Bandpass-eps-converted-to.pdf>] [5] [6] [7] [8] [9] [10]
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 300.
+[5] [6 <./images/LM358-Bandpass-eps-converted-to.pdf>] [7
+
+] [8] [9]
+<images/test1.jpg, id=244, 724.7075pt x 590.205pt>
+File: images/test1.jpg Graphic file (type jpg)
+<use images/test1.jpg>
+Package pdftex.def Info: images/test1.jpg  used on input line 332.
+(pdftex.def)             Requested size: 202.35622pt x 164.79697pt.
+<images/test2.jpg, id=245, 724.7075pt x 590.205pt>
+File: images/test2.jpg Graphic file (type jpg)
+<use images/test2.jpg>
+Package pdftex.def Info: images/test2.jpg  used on input line 333.
+(pdftex.def)             Requested size: 202.35622pt x 164.79697pt.
+
+Overfull \hbox (1.2809pt too wide) in paragraph at lines 331--335
+[][]
+ []
+
+<images/res1.jpg, id=246, 730.73pt x 665.48625pt>
+File: images/res1.jpg Graphic file (type jpg)
+<use images/res1.jpg>
+Package pdftex.def Info: images/res1.jpg  used on input line 340.
+(pdftex.def)             Requested size: 255.75932pt x 232.92368pt.
+[10 <./images/test1.jpg> <./images/test2.jpg> <./images/res1.jpg>] [11
+
+] [12]
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 371.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
+Underfull \hbox (badness 10000) in paragraph at lines 370--372
 
  []
 
-[11] (./main.bbl
+[13] (./main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
 []\OT1/cmr/m/n/12 Analog read-ings with avr.  []$\OT1/cmtt/m/n/12 https : / / maker . pro / custom / tutorial /
  []
 
-) [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 310.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 310.
+
+Underfull \hbox (badness 1622) in paragraph at lines 15--19
+[]\OT1/cmr/m/n/12 Harvard heart let-ter.  []$\OT1/cmtt/m/n/12 https : / / www . health . harvard . edu / heart-[]health /
+ []
+
+) [14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 381.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 381.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 310.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 310.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 381.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 381.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 159EAA992BFCFCF1B02058268062099F;875.
+(rerunfilecheck)             Checksum: 4ED2A1E2D03EA3F00A57305C03FE1B3E;939.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 310.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 381.
  ) 
 Here is how much of TeX's memory you used:
- 28006 strings out of 492649
- 585317 string characters out of 6129621
- 892212 words of memory out of 5000000
- 31365 multiletter control sequences out of 15000+600000
- 11678 words of font info for 42 fonts, out of 8000000 for 9000
+ 39819 strings out of 492649
+ 846760 string characters out of 6129621
+ 1127182 words of memory out of 5000000
+ 43108 multiletter control sequences out of 15000+600000
+ 541601 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,56p,560b,1917s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (13 pages, 228221 bytes).
+ 62i,17n,56p,10492b,2315s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
+Output written on main.pdf (15 pages, 807913 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 288 compressed objects within 3 object streams
- 123 named destinations out of 1000 (max. 500000)
- 143 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 361 PDF objects out of 1000 (max. 8388607)
+ 316 compressed objects within 4 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 
