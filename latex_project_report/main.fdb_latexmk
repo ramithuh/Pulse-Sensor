@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1546163854 "main.aux" "main.bbl" "main" 1546163856
+["bibtex main"] 1546177372 "main.aux" "main.bbl" "main" 1546179442
   "/usr/local/texlive/2018/texmf-dist/bibtex/bst/base/plain.bst" 1480098433 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "biblist.bib" 1546112452 966 3f0ce40de2338e085c0424e0f4b63e96 ""
-  "main.aux" 1546163856 3240 5af56e2dc1633980d1349359cfd8d375 ""
+  "main.aux" 1546179441 3837 af80b9c99a04ba6c9dbb0f472ab538e3 ""
   (generated)
   "main.blg"
   "main.bbl"
-["pdflatex"] 1546163854 "/Users/ramith/170221T/OneDrive - University of Moratuwa/Laboratory Practice/Lab Project Pulse Sensor/Pulse Sensor/latex_project_report/main.tex" "main.pdf" "main" 1546163856
-  "/Users/ramith/170221T/OneDrive - University of Moratuwa/Laboratory Practice/Lab Project Pulse Sensor/Pulse Sensor/latex_project_report/main.tex" 1546163851 11174 ac092fbdef385b576c30eaecc53d803e ""
+["pdflatex"] 1546179438 "/Users/ramith/170221T/OneDrive - University of Moratuwa/Laboratory Practice/Lab Project Pulse Sensor/Pulse Sensor/latex_project_report/main.tex" "main.pdf" "main" 1546179442
+  "/Users/ramith/170221T/OneDrive - University of Moratuwa/Laboratory Practice/Lab Project Pulse Sensor/Pulse Sensor/latex_project_report/main.tex" 1546179437 11537 0f2f3de3ba2abdd3d7079fa444b86fe4 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1480098666 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1480098667 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -209,19 +209,20 @@
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1545422364 4220281 94ac9e952afe8fe3c7484a9ccc714166 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
   "images/LM358-Bandpass.eps" 1546155026 36355 dff06ab49bca71f9b7b8bc3d26ebee07 ""
+  "images/atmega32.jpg" 1546175045 69208 8c85a556a8bbcdd8297e5e281ffcf875 ""
   "images/res1.jpg" 1546115987 120149 4569c3b6601cf3999be263b5536e19d2 ""
   "images/sensing.jpg" 1546112219 120476 57ad283d5e72fbd80931b565d81157df ""
   "images/test1.jpg" 1546118353 153551 188b81d521ff64037af638428a814815 ""
   "images/test2.jpg" 1546118331 119982 9d56e192e4acb7e9ac3551165dad80a9 ""
   "images/uom.png" 1545403028 104331 ee402aed2d6345e92bb288354dfc0e86 ""
-  "main.aux" 1546163856 3240 5af56e2dc1633980d1349359cfd8d375 ""
-  "main.bbl" 1546163854 738 421bdb377ab46ddea5922c583867e582 "bibtex main"
-  "main.out" 1546163856 939 4ed2a1e2d03ea3f00a57305c03fe1b3e ""
-  "main.tex" 1546163851 11174 ac092fbdef385b576c30eaecc53d803e ""
-  "main.toc" 1546163856 1227 b7f5a30293c8572f88cd444923702de2 ""
+  "main.aux" 1546179441 3837 af80b9c99a04ba6c9dbb0f472ab538e3 ""
+  "main.bbl" 1546177372 738 421bdb377ab46ddea5922c583867e582 "bibtex main"
+  "main.out" 1546179441 1278 0cd9b447aad380d63db94b0daa9a04af ""
+  "main.tex" 1546179437 11537 0f2f3de3ba2abdd3d7079fa444b86fe4 ""
+  "main.toc" 1546179441 1630 9fbe27c7e1e75c951599dff41fe695b5 ""
   (generated)
+  "main.toc"
   "main.out"
+  "main.pdf"
   "main.log"
   "main.aux"
-  "main.toc"
-  "main.pdf"

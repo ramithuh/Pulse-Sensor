@@ -331,6 +331,9 @@ INPUT ./images/LM358-Bandpass.eps
 INPUT ./images/LM358-Bandpass-eps-converted-to.pdf
 INPUT ./images/LM358-Bandpass-eps-converted-to.pdf
 INPUT ./images/LM358-Bandpass-eps-converted-to.pdf
+INPUT images/atmega32.jpg
+INPUT ./images/atmega32.jpg
+INPUT ./images/atmega32.jpg
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT images/test1.jpg

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  30 DEC 2018 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  30 DEC 2018 19:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -917,7 +917,7 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 \c@lstlisting=\count329
-<images/uom.png, id=67, 307.1475pt x 326.21875pt>
+<images/uom.png, id=83, 307.1475pt x 326.21875pt>
 File: images/uom.png Graphic file (type png)
 <use images/uom.png>
 Package pdftex.def Info: images/uom.png  used on input line 83.
@@ -951,7 +951,7 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              for symbol `textbackslash' on input line 147.
 
 [3]
-<images/sensing.jpg, id=110, 451.6875pt x 451.6875pt>
+<images/sensing.jpg, id=130, 451.6875pt x 451.6875pt>
 File: images/sensing.jpg Graphic file (type jpg)
 <use images/sensing.jpg>
 Package pdftex.def Info: images/sensing.jpg  used on input line 172.
@@ -977,46 +977,52 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/LM358-Bandpass-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/LM358-Bandpass-eps-converted-to.pdf, id=117, 505.89pt x 354.32375pt>
+<images/LM358-Bandpass-eps-converted-to.pdf, id=137, 505.89pt x 354.32375pt>
 File: images/LM358-Bandpass-eps-converted-to.pdf Graphic file (type pdf)
 <use images/LM358-Bandpass-eps-converted-to.pdf>
 Package pdftex.def Info: images/LM358-Bandpass-eps-converted-to.pdf  used on input line 211.
 (pdftex.def)             Requested size: 427.43153pt x 299.37622pt.
-[5] [6 <./images/LM358-Bandpass-eps-converted-to.pdf>] [7
+[5] [6 <./images/LM358-Bandpass-eps-converted-to.pdf>]
+<images/atmega32.jpg, id=162, 252.6165pt x 177.0615pt>
+File: images/atmega32.jpg Graphic file (type jpg)
+<use images/atmega32.jpg>
+Package pdftex.def Info: images/atmega32.jpg  used on input line 224.
+(pdftex.def)             Requested size: 252.61586pt x 177.06104pt.
+ [7
 
-] [8] [9]
-<images/test1.jpg, id=244, 724.7075pt x 590.205pt>
+ <./images/atmega32.jpg>] [8] [9]
+<images/test1.jpg, id=266, 724.7075pt x 590.205pt>
 File: images/test1.jpg Graphic file (type jpg)
 <use images/test1.jpg>
-Package pdftex.def Info: images/test1.jpg  used on input line 332.
+Package pdftex.def Info: images/test1.jpg  used on input line 347.
 (pdftex.def)             Requested size: 202.35622pt x 164.79697pt.
-<images/test2.jpg, id=245, 724.7075pt x 590.205pt>
+<images/test2.jpg, id=267, 724.7075pt x 590.205pt>
 File: images/test2.jpg Graphic file (type jpg)
 <use images/test2.jpg>
-Package pdftex.def Info: images/test2.jpg  used on input line 333.
+Package pdftex.def Info: images/test2.jpg  used on input line 348.
 (pdftex.def)             Requested size: 202.35622pt x 164.79697pt.
 
-Overfull \hbox (1.2809pt too wide) in paragraph at lines 331--335
+Overfull \hbox (1.2809pt too wide) in paragraph at lines 346--350
 [][]
  []
 
-<images/res1.jpg, id=246, 730.73pt x 665.48625pt>
+<images/res1.jpg, id=268, 730.73pt x 665.48625pt>
 File: images/res1.jpg Graphic file (type jpg)
 <use images/res1.jpg>
-Package pdftex.def Info: images/res1.jpg  used on input line 340.
+Package pdftex.def Info: images/res1.jpg  used on input line 355.
 (pdftex.def)             Requested size: 255.75932pt x 232.92368pt.
-[10 <./images/test1.jpg> <./images/test2.jpg> <./images/res1.jpg>] [11
+[10 <./images/test1.jpg> <./images/test2.jpg>] [11 <./images/res1.jpg>] [12
 
-] [12]
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 371.
+] [13]
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 386.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 370--372
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
 
  []
 
-[13] (./main.bbl
+[14] (./main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
 []\OT1/cmr/m/n/12 Analog read-ings with avr.  []$\OT1/cmtt/m/n/12 https : / / maker . pro / custom / tutorial /
  []
@@ -1026,33 +1032,33 @@ Underfull \hbox (badness 1622) in paragraph at lines 15--19
 []\OT1/cmr/m/n/12 Harvard heart let-ter.  []$\OT1/cmtt/m/n/12 https : / / www . health . harvard . edu / heart-[]health /
  []
 
-) [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 381.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 381.
+) [15]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 396.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 396.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 381.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 381.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 396.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 396.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4ED2A1E2D03EA3F00A57305C03FE1B3E;939.
+(rerunfilecheck)             Checksum: 0CD9B447AAD380D63DB94B0DAA9A04AF;1278.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 381.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 396.
  ) 
 Here is how much of TeX's memory you used:
- 39819 strings out of 492649
- 846760 string characters out of 6129621
- 1127182 words of memory out of 5000000
- 43108 multiletter control sequences out of 15000+600000
+ 39834 strings out of 492649
+ 847040 string characters out of 6129621
+ 1123182 words of memory out of 5000000
+ 43116 multiletter control sequences out of 15000+600000
  541601 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,17n,56p,10492b,2315s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on main.pdf (15 pages, 807913 bytes).
+Output written on main.pdf (16 pages, 879140 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
- 316 compressed objects within 4 object streams
- 125 named destinations out of 1000 (max. 500000)
- 163 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 388 PDF objects out of 1000 (max. 8388607)
+ 341 compressed objects within 4 object streams
+ 131 named destinations out of 1000 (max. 500000)
+ 200 words of extra memory for PDF output out of 10000 (max. 10000000)
 

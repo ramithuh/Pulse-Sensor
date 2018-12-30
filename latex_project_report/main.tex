@@ -218,13 +218,18 @@ I hope that you find this template both visually appealing and useful. \\
 
 
 	\subsubsection{Microcontroller}
-Basic info about the microcontroller goes here.
+	The ATmega32 is a low power high performance atmel AVR 8-bit microcontroller.
+			\begin{figure}[!htbp]
+				\centering
+				\includegraphics[scale = 1]{atmega32.jpg}
+				\caption{ATmega32 pinout}
+			\end{figure}
 
-\subsubsection{Obtaining a threshold value}
-Give basic info on how threshold was determined.
+	\subsubsection{Obtaining a threshold value}
+	Give basic info on how threshold was determined.
 
-\subsubsection{Algorithm}
-can include the flowchat, and code here
+	\subsubsection{Algorithm}
+	can include the flowchat, and code here
 
 	\begin{lstlisting}
 		/*  Group 7 | UoM | ENTC 17Batch  */
@@ -325,6 +330,16 @@ can include the flowchat, and code here
 \newpage
 \section{Implementation and Results}
 
+\subsection{The effect of noise on the signal}
+
+\subsubsection{Without the filter}
+blah blah blaaah
+
+\subsubsection{With the active bandpass filter}
+
+
+\subsubsection{Obtaining a threshold value}
+
 While testing, we observed that due to various lighting conditions, the amplitude of the output  waveform varies. Therefore we came to a conclusion that a hardcoded threshold value will not count the number of peaks accurately. Therefore, we implemented a calibration algorithm.
 \begin{figure}[!htbp]
 	
@@ -361,7 +376,7 @@ While testing, we observed that due to various lighting conditions, the amplitud
 
 
 \newpage
-\section{Conclusion}
+\section{Discussion}
 \lipsum[2]
 
 
