@@ -15,7 +15,7 @@
 \usepackage{parskip}
 \usepackage{fancyhdr}
 \usepackage{vmargin}
-
+\usepackage{wrapfig}
 \usepackage{subfig}
 
 \usepackage{siunitx}
@@ -182,6 +182,7 @@ I hope that you find this template both visually appealing and useful. \\
 
 
 \subsubsection{Calculations}
+\label{sec:4.2.1}
 \begin{center}
 	Cutoff frequency ($f$) = $\frac{1}{2\pi RC}$
 	
@@ -226,6 +227,8 @@ I hope that you find this template both visually appealing and useful. \\
 			\end{figure}
 
 	\subsubsection{Obtaining a threshold value}
+	\label{sec:4.3.2}
+
 	Give basic info on how threshold was determined.
 
 	\subsubsection{Algorithm}
@@ -330,38 +333,95 @@ I hope that you find this template both visually appealing and useful. \\
 \newpage
 \section{Implementation and Results}
 
+
 \subsection{The effect of noise on the signal}
+Initially our goal was to amplify the signal received from the photodiodes. Then we observed that we could not receive a clear amplified heartbeat signal as it gets suppressed by the 50Hz noise signal.
 
-\subsubsection{Without the filter}
-blah blah blaaah
-
-\subsubsection{With the active bandpass filter}
-Then we modified our circuit into an active bandpass filter circuit by calculating the necessary values as shown in 4.2.1. Next using the signal generator, we observed the characteristics of our filter circuit from the digital oscilloscope. The responses were as follows:
+\subsubsection{Without the filter - Dominant 50Hz noise}
 
 \begin{figure}[!htbp]
-	
-	\begin{tabular}{ccc}
+	\begin{tabular}{cc}
+	\centering
 
-\subfloat[something]{\includegraphics[width = 1.5in]{1.jpg}}&
-\subfloat[something]{\includegraphics[width = 1.5in]{22.jpg}}&
-\subfloat[something]{\includegraphics[width = 1.5in]{test2.jpg}}\\
-
+	\subfloat[oscilloscope output]{\includegraphics[width = 3in]{50Hz.jpg}}&
+\subfloat[zoomed view]{\includegraphics[width = 3in]{50Hz-z.jpg}}\\
 
 
 	\end{tabular}
-	\end{figure}
+\end{figure}
 
+\includegraphics[scale=0.116]{50-dom.jpg}
+
+
+
+\subsubsection{With the active bandpass filter}
+The initial circuit was modified into an active bandpass filter circuit by calculating the necessary values as shown in \hyperref[sec:4.2.1]{4.2.1}. Next using the signal generator, we observed the characteristics of our filter circuit from the digital oscilloscope. The responses were as follows; Observation:The amplitudes of the frequencies at the cut of frequencies were gradually reduced.
+
+\begin{figure}[h]
+	\begin{tabular}{ccc}
+
+\subfloat[0.1Hz]{\includegraphics[width = 1.9in]{0-1.jpg}}&
+\subfloat[0.2Hz]{\includegraphics[width = 1.9in]{0-2.jpg}}&
+\subfloat[0.3Hz]{\includegraphics[width = 1.9in]{0-3.jpg}}\\
+
+\end{tabular}
+\end{figure}
+
+\begin{figure}[h]
+	\begin{tabular}{ccc}
+\subfloat[0.4Hz]{\includegraphics[width = 1.9in]{0-4.jpg}}&
+\subfloat[0.5Hz]{\includegraphics[width = 1.9in]{0-5.jpg}}&
+\subfloat[0.6Hz]{\includegraphics[width = 1.9in]{0-6.jpg}}\\
+
+\subfloat[0.7Hz]{\includegraphics[width = 1.9in]{0-7.jpg}}&
+\subfloat[0.9Hz]{\includegraphics[width = 1.9in]{0-9.jpg}}&
+\subfloat[1.2Hz]{\includegraphics[width = 1.9in]{1-2.jpg}}\\
+
+\subfloat[1.5Hz]{\includegraphics[width = 1.9in]{1-5.jpg}}&
+\subfloat[2Hz]{\includegraphics[width = 1.9in]{2.jpg}}&
+\subfloat[2.5Hz]{\includegraphics[width = 1.9in]{2-5.jpg}}\\
+
+\subfloat[6Hz]{\includegraphics[width = 1.9in]{6.jpg}}&
+\subfloat[10Hz]{\includegraphics[width = 1.9in]{10.jpg}}&
+\subfloat[15Hz]{\includegraphics[width = 1.9in]{15.jpg}}\\
+
+\end{tabular}
+\caption{Frequency response of the bandpass filter}
+
+	\end{figure}
+\clearpage
+
+
+
+By the observations above we were able to verify that the response of this circuit can be given by the graph below:
+
+\includegraphics[scale=0.5]{bandpass.jpg}
 
 \subsubsection{Obtaining a threshold value}
 
-While testing, we observed that due to various lighting conditions, the amplitude of the output  waveform varies. Therefore we came to a conclusion that a hardcoded threshold value will not count the number of peaks accurately. Therefore, we implemented a calibration algorithm.
+During testing, it was observed that due to ambient lighting conditions and movement of the patients’ finger placement between the LED and photodiode sudden amplitude changes can occur. 
+
+It was evident that a hardcoded threshold value will not count the number of peaks accurately. Therefore, the calibration algorithm which was explained in \hyperref[sec:4.3.2]{4.3.2} determines a threshold value per user.
+
+
 \begin{figure}[!htbp]
 	
 	\begin{tabular}{ccc}
-\subfloat[Variying amplitudes]{\includegraphics[width = 2.8in]{test1.jpg}}&
-\subfloat[Amplitude Gradually decreasing]{\includegraphics[width = 2.8in]{test2.jpg}}\\
+\subfloat[Variying amplitudes]{\includegraphics[width = 2.9in]{test1.jpg}}&
+\subfloat[Amplitude Gradually decreasing]{\includegraphics[width = 2.9in]{test2.jpg}}\\
 	\end{tabular}
 	\end{figure}
+	
+	
+
+	\begin{wrapfigure}{L}{0.8\textwidth}
+		\centering
+		\includegraphics[width=0.75\textwidth]{breadboardmonitorwaveform.jpg}
+		\caption{How PPG Varies\cite{analomy_pulse_sensor}}
+		\end{wrapfigure}
+
+
+		
 
 \label{sec:results}
 \begin{figure}[!htbp]

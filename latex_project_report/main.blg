@@ -7,45 +7,46 @@ Warning--to sort, need author or key in ppg_wiki
 Warning--to sort, need author or key in typical_pulse
 Warning--to sort, need author or key in avr_analog
 Warning--to sort, need author or key in atmega32_datasheet
-You've used 4 entries,
+Warning--to sort, need author or key in analomy_pulse_sensor
+You've used 5 entries,
             2118 wiz_defined-function locations,
-            513 strings with 4520 characters,
-and the built_in function-call counts, 692 in all, are:
-= -- 68
-> -- 4
+            517 strings with 4684 characters,
+and the built_in function-call counts, 860 in all, are:
+= -- 85
+> -- 5
 < -- 0
-+ -- 4
++ -- 5
 - -- 0
-* -- 22
-:= -- 85
-add.period$ -- 12
-call.type$ -- 4
-change.case$ -- 12
+* -- 27
+:= -- 104
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 15
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 28
-empty$ -- 93
+cite$ -- 10
+duplicate$ -- 35
+empty$ -- 116
 format.name$ -- 0
-if$ -- 169
+if$ -- 211
 int.to.chr$ -- 0
-int.to.str$ -- 4
+int.to.str$ -- 5
 missing$ -- 0
-newline$ -- 23
+newline$ -- 28
 num.names$ -- 0
-pop$ -- 40
+pop$ -- 50
 preamble$ -- 1
-purify$ -- 8
+purify$ -- 10
 quote$ -- 0
-skip$ -- 20
+skip$ -- 25
 stack$ -- 0
-substring$ -- 20
-swap$ -- 4
+substring$ -- 25
+swap$ -- 5
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
-warning$ -- 4
+type$ -- 20
+warning$ -- 5
 while$ -- 0
-width$ -- 5
-write$ -- 38
-(There were 4 warnings)
+width$ -- 6
+write$ -- 47
+(There were 5 warnings)
