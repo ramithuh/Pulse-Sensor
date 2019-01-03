@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  2 JAN 2019 21:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  3 JAN 2019 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1014,170 +1014,160 @@ Overfull \hbox (30.18846pt too wide) in paragraph at lines 343--351
 [][]
  []
 
-<images/50-dom.jpg, id=268, 4029.0525pt x 2796.4475pt>
+<images/50-dom.jpg, id=268, 3830.31pt x 2642.87375pt>
 File: images/50-dom.jpg Graphic file (type jpg)
 <use images/50-dom.jpg>
 Package pdftex.def Info: images/50-dom.jpg  used on input line 353.
-(pdftex.def)             Requested size: 467.35812pt x 324.37961pt.
-
-Overfull \hbox (39.92659pt too wide) in paragraph at lines 353--354
-[][] 
- []
-
+(pdftex.def)             Requested size: 421.3354pt x 290.71701pt.
 [10 <./images/50Hz.jpg> <./images/50Hz-z.jpg>]pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.363 \subfloat
+l.364 \subfloat
                [0.1Hz]{\includegraphics[width = 1.9in]{0-1.jpg}}&
-<images/0-1.jpg, id=279, 1047.915pt x 678.535pt>
+<images/0-1.jpg, id=280, 1047.915pt x 678.535pt>
 File: images/0-1.jpg Graphic file (type jpg)
 <use images/0-1.jpg>
-Package pdftex.def Info: images/0-1.jpg  used on input line 363.
+Package pdftex.def Info: images/0-1.jpg  used on input line 364.
 (pdftex.def)             Requested size: 137.31255pt x 88.90633pt.
 pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.364 \subfloat
+l.365 \subfloat
                [0.2Hz]{\includegraphics[width = 1.9in]{0-2.jpg}}&
-<images/0-2.jpg, id=280, 1043.9pt x 690.58pt>
+<images/0-2.jpg, id=281, 1043.9pt x 690.58pt>
 File: images/0-2.jpg Graphic file (type jpg)
 <use images/0-2.jpg>
-Package pdftex.def Info: images/0-2.jpg  used on input line 364.
+Package pdftex.def Info: images/0-2.jpg  used on input line 365.
 (pdftex.def)             Requested size: 137.31255pt x 90.83229pt.
-<images/0-3.jpg, id=281, 1136.245pt x 708.6475pt>
+<images/0-3.jpg, id=282, 1136.245pt x 708.6475pt>
 File: images/0-3.jpg Graphic file (type jpg)
 <use images/0-3.jpg>
-Package pdftex.def Info: images/0-3.jpg  used on input line 365.
+Package pdftex.def Info: images/0-3.jpg  used on input line 366.
 (pdftex.def)             Requested size: 137.31255pt x 85.62874pt.
 
-Overfull \hbox (20.5061pt too wide) in paragraph at lines 361--368
+Overfull \hbox (20.5061pt too wide) in paragraph at lines 362--369
 [][]
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.372 \subfloat
-               [0.4Hz]{\includegraphics[width = 1.9in]{0-4.jpg}}&
-<images/0-4.jpg, id=282, 1120.185pt x 786.94pt>
+<images/0-4.jpg, id=283, 1120.185pt x 786.94pt>
 File: images/0-4.jpg Graphic file (type jpg)
 <use images/0-4.jpg>
-Package pdftex.def Info: images/0-4.jpg  used on input line 372.
+Package pdftex.def Info: images/0-4.jpg  used on input line 375.
 (pdftex.def)             Requested size: 137.31255pt x 96.45802pt.
-pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.373 \subfloat
-               [0.5Hz]{\includegraphics[width = 1.9in]{0-5.jpg}}&
-<images/0-5.jpg, id=283, 1097.09875pt x 738.76pt>
+<images/0-5.jpg, id=284, 1097.09875pt x 738.76pt>
 File: images/0-5.jpg Graphic file (type jpg)
 <use images/0-5.jpg>
-Package pdftex.def Info: images/0-5.jpg  used on input line 373.
+Package pdftex.def Info: images/0-5.jpg  used on input line 376.
 (pdftex.def)             Requested size: 137.31255pt x 92.45749pt.
-<images/0-6.jpg, id=284, 1116.17pt x 729.72626pt>
+<images/0-6.jpg, id=285, 1116.17pt x 729.72626pt>
 File: images/0-6.jpg Graphic file (type jpg)
 <use images/0-6.jpg>
-Package pdftex.def Info: images/0-6.jpg  used on input line 374.
+Package pdftex.def Info: images/0-6.jpg  used on input line 377.
 (pdftex.def)             Requested size: 137.31255pt x 89.76804pt.
-<images/0-7.jpg, id=285, 1100.11pt x 733.74126pt>
+<images/0-7.jpg, id=286, 1100.11pt x 733.74126pt>
 File: images/0-7.jpg Graphic file (type jpg)
 <use images/0-7.jpg>
-Package pdftex.def Info: images/0-7.jpg  used on input line 376.
+Package pdftex.def Info: images/0-7.jpg  used on input line 379.
 (pdftex.def)             Requested size: 137.31255pt x 91.58307pt.
-<images/0-9.jpg, id=286, 1092.08pt x 670.505pt>
+<images/0-9.jpg, id=287, 1092.08pt x 670.505pt>
 File: images/0-9.jpg Graphic file (type jpg)
 <use images/0-9.jpg>
-Package pdftex.def Info: images/0-9.jpg  used on input line 377.
+Package pdftex.def Info: images/0-9.jpg  used on input line 380.
 (pdftex.def)             Requested size: 137.31255pt x 84.304pt.
-<images/1-2.jpg, id=287, 1119.18124pt x 706.64pt>
+<images/1-2.jpg, id=288, 1119.18124pt x 706.64pt>
 File: images/1-2.jpg Graphic file (type jpg)
 <use images/1-2.jpg>
-Package pdftex.def Info: images/1-2.jpg  used on input line 378.
+Package pdftex.def Info: images/1-2.jpg  used on input line 381.
 (pdftex.def)             Requested size: 137.31255pt x 86.69084pt.
-<images/1-5.jpg, id=288, 1111.15125pt x 686.565pt>
+<images/1-5.jpg, id=289, 1111.15125pt x 686.565pt>
 File: images/1-5.jpg Graphic file (type jpg)
 <use images/1-5.jpg>
-Package pdftex.def Info: images/1-5.jpg  used on input line 380.
+Package pdftex.def Info: images/1-5.jpg  used on input line 383.
 (pdftex.def)             Requested size: 137.31255pt x 84.83565pt.
-<images/2.jpg, id=289, 1117.17375pt x 710.655pt>
+<images/2.jpg, id=290, 1117.17375pt x 710.655pt>
 File: images/2.jpg Graphic file (type jpg)
 <use images/2.jpg>
-Package pdftex.def Info: images/2.jpg  used on input line 381.
+Package pdftex.def Info: images/2.jpg  used on input line 384.
 (pdftex.def)             Requested size: 137.31255pt x 87.34607pt.
-<images/2-5.jpg, id=290, 1116.17pt x 708.6475pt>
+<images/2-5.jpg, id=291, 1116.17pt x 708.6475pt>
 File: images/2-5.jpg Graphic file (type jpg)
 <use images/2-5.jpg>
-Package pdftex.def Info: images/2-5.jpg  used on input line 382.
+Package pdftex.def Info: images/2-5.jpg  used on input line 385.
 (pdftex.def)             Requested size: 137.31255pt x 87.17502pt.
-<images/6.jpg, id=291, 1138.2525pt x 703.62875pt>
+<images/6.jpg, id=292, 1138.2525pt x 703.62875pt>
 File: images/6.jpg Graphic file (type jpg)
 <use images/6.jpg>
-Package pdftex.def Info: images/6.jpg  used on input line 384.
+Package pdftex.def Info: images/6.jpg  used on input line 387.
 (pdftex.def)             Requested size: 137.31255pt x 84.88274pt.
-<images/10.jpg, id=292, 1116.17pt x 696.6025pt>
+<images/10.jpg, id=293, 1116.17pt x 696.6025pt>
 File: images/10.jpg Graphic file (type jpg)
 <use images/10.jpg>
-Package pdftex.def Info: images/10.jpg  used on input line 385.
+Package pdftex.def Info: images/10.jpg  used on input line 388.
 (pdftex.def)             Requested size: 137.31255pt x 85.69328pt.
-<images/15.jpg, id=293, 1021.8175pt x 634.37pt>
+<images/15.jpg, id=294, 1021.8175pt x 634.37pt>
 File: images/15.jpg Graphic file (type jpg)
 <use images/15.jpg>
-Package pdftex.def Info: images/15.jpg  used on input line 386.
+Package pdftex.def Info: images/15.jpg  used on input line 389.
 (pdftex.def)             Requested size: 137.31255pt x 85.23938pt.
 
-Overfull \hbox (20.5061pt too wide) in paragraph at lines 371--389
-[][] 
+Overfull \hbox (28.99213pt too wide) in paragraph at lines 372--392
+[]\OT1/cmr/m/n/12 * [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11 <./images/50-dom.jpg> <./images/0-1.jpg> <./images/0-2.jpg> <./images/0-3.jpg>] [12pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.392 \clearpage
-                 <./images/0-4.jpg> <./images/0-5.jpg> <./images/0-6.jpg> <./images/0-7.jpg> <./images/0-9.jpg> <./images/1-2.jpg> <./images/1-5.jpg> <./images/2.jpg> <./images/2-5.jpg> <./images/6.jpg> <./images/10.jpg> <./images/15.jpg>]
-<images/bandpass.jpg, id=315, 420.57124pt x 211.79124pt>
+[11 <./images/50-dom.jpg> <./images/0-1.jpg> <./images/0-2.jpg> <./images/0-3.jpg>] [12 <./images/0-4.jpg> <./images/0-5.jpg> <./images/0-6.jpg> <./images/0-7.jpg> <./images/0-9.jpg> <./images/1-2.jpg> <./images/1-5.jpg> <./images/2.jpg> <./images/2-5.jpg> <./images/6.jpg> <./images/10.jpg> <./images/15.jpg>]
+<images/bandpass.jpg, id=321, 420.57124pt x 211.79124pt>
 File: images/bandpass.jpg Graphic file (type jpg)
 <use images/bandpass.jpg>
-Package pdftex.def Info: images/bandpass.jpg  used on input line 398.
+Package pdftex.def Info: images/bandpass.jpg  used on input line 400.
 (pdftex.def)             Requested size: 210.28511pt x 105.89536pt.
-<images/test1.jpg, id=317, 724.7075pt x 590.205pt>
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.412 \subfloat
+               [Variying amplitudes]{\includegraphics[width = 2.9in]{test1.j...
+<images/test1.jpg, id=323, 724.7075pt x 590.205pt>
 File: images/test1.jpg Graphic file (type jpg)
 <use images/test1.jpg>
-Package pdftex.def Info: images/test1.jpg  used on input line 410.
+Package pdftex.def Info: images/test1.jpg  used on input line 412.
 (pdftex.def)             Requested size: 209.58255pt x 170.67775pt.
-<images/test2.jpg, id=318, 724.7075pt x 590.205pt>
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.413 \subfloat
+               [Amplitude Gradually decreasing]{\includegraphics[width = 2.9...
+<images/test2.jpg, id=324, 724.7075pt x 590.205pt>
 File: images/test2.jpg Graphic file (type jpg)
 <use images/test2.jpg>
-Package pdftex.def Info: images/test2.jpg  used on input line 411.
+Package pdftex.def Info: images/test2.jpg  used on input line 413.
 (pdftex.def)             Requested size: 209.58255pt x 170.67775pt.
 
-Overfull \hbox (15.73357pt too wide) in paragraph at lines 409--413
+Overfull \hbox (15.73357pt too wide) in paragraph at lines 411--415
 [][]
  []
 
-<images/breadboardmonitorwaveform.jpg, id=319, 766.865pt x 295.1025pt>
+<images/breadboardmonitorwaveform.jpg, id=325, 766.865pt x 295.1025pt>
 File: images/breadboardmonitorwaveform.jpg Graphic file (type jpg)
 <use images/breadboardmonitorwaveform.jpg>
-Package pdftex.def Info: images/breadboardmonitorwaveform.jpg  used on input line 419.
+Package pdftex.def Info: images/breadboardmonitorwaveform.jpg  used on input line 421.
 (pdftex.def)             Requested size: 320.57364pt x 123.36131pt.
-<images/res1.jpg, id=322, 730.73pt x 665.48625pt>
+<images/res1.jpg, id=328, 730.73pt x 665.48625pt>
 File: images/res1.jpg Graphic file (type jpg)
 <use images/res1.jpg>
-Package pdftex.def Info: images/res1.jpg  used on input line 429.
+Package pdftex.def Info: images/res1.jpg  used on input line 431.
 (pdftex.def)             Requested size: 255.75932pt x 232.92368pt.
 [13
 
  <./images/bandpass.jpg> <./images/test1.jpg> <./images/test2.jpg>] [14 <./images/res1.jpg> <./images/breadboardmonitorwaveform.jpg>] [15
 
 ] [16]
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 460.
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 462.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 459--461
+Underfull \hbox (badness 10000) in paragraph at lines 461--463
 
  []
 
@@ -1192,32 +1182,32 @@ Underfull \hbox (badness 1622) in paragraph at lines 22--26
  []
 
 ) [18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 470.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 470.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 472.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 472.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 470.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 470.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 472.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 472.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 92F5FC573BC70C7EF2CEED5E92FB5255;1300.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 470.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 472.
  ) 
 Here is how much of TeX's memory you used:
- 40014 strings out of 492649
- 849946 string characters out of 6129621
+ 40024 strings out of 492649
+ 850104 string characters out of 6129621
  1124272 words of memory out of 5000000
- 43252 multiletter control sequences out of 15000+600000
- 541601 words of font info for 62 fonts, out of 8000000 for 9000
+ 43259 multiletter control sequences out of 15000+600000
+ 542769 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,16n,56p,10492b,2315s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on main.pdf (19 pages, 7167241 bytes).
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
+Output written on main.pdf (19 pages, 7119325 bytes).
 PDF statistics:
- 450 PDF objects out of 1000 (max. 8388607)
- 378 compressed objects within 4 object streams
- 151 named destinations out of 1000 (max. 500000)
+ 457 PDF objects out of 1000 (max. 8388607)
+ 384 compressed objects within 4 object streams
+ 153 named destinations out of 1000 (max. 500000)
  300 words of extra memory for PDF output out of 10000 (max. 10000000)
 
