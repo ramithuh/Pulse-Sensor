@@ -7,3 +7,5 @@
 
 <img src="summary.gif" width="250"/>
 
+<img src="IMG_2775.jpg" width="250"/>
+
