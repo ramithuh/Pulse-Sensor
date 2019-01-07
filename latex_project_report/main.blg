@@ -3,14 +3,14 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: main.aux
 The style file: plain.bst
 Database file #1: biblist.bib
-Warning--to sort, need author or key in ppg_wiki
+Warning--to sort, need author or key in epson_sensor
 Warning--to sort, need author or key in typical_pulse
 Warning--to sort, need author or key in avr_analog
 Warning--to sort, need author or key in atmega32_datasheet
 Warning--to sort, need author or key in analomy_pulse_sensor
 You've used 5 entries,
             2118 wiz_defined-function locations,
-            517 strings with 4684 characters,
+            516 strings with 4685 characters,
 and the built_in function-call counts, 860 in all, are:
 = -- 85
 > -- 5

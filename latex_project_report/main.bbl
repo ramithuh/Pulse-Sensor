@@ -24,9 +24,10 @@ Harvard heart letter.
   \url{https://www.health.harvard.edu/heart-health/want-to-check-your-heart-rate-heres-how}.
 \newblock Accessed: 2018-12-30.
 
-\bibitem{ppg_wiki}
-Photoplethysmogram - wikipedia article.
-\newblock \url{https://en.wikipedia.org/wiki/Photoplethysmogram}.
-\newblock Accessed: 2018-10-12.
+\bibitem{epson_sensor}
+Ppg sensing illustration.
+\newblock
+  \url{https://global.epson.com/innovation/core_technology/wearable/vital_sensing.html}.
+\newblock Accessed: 2018-12-30.
 
 \end{thebibliography}

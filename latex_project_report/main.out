@@ -2,13 +2,13 @@
 \BOOKMARK [1][-]{section.2}{Acknowledgement}{}% 2
 \BOOKMARK [1][-]{section.3}{Introduction}{}% 3
 \BOOKMARK [1][-]{section.4}{Methodology}{}% 4
-\BOOKMARK [2][-]{subsection.4.1}{Sensor}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.1}{Sensor - \(principle\)}{section.4}% 5
 \BOOKMARK [2][-]{subsection.4.2}{Amplification and Filtering}{section.4}% 6
 \BOOKMARK [3][-]{subsubsection.4.2.1}{Calculations}{subsection.4.2}% 7
 \BOOKMARK [2][-]{subsection.4.3}{Calculating BPM from the analog signal}{section.4}% 8
 \BOOKMARK [3][-]{subsubsection.4.3.1}{Microcontroller}{subsection.4.3}% 9
 \BOOKMARK [3][-]{subsubsection.4.3.2}{Obtaining a threshold value}{subsection.4.3}% 10
-\BOOKMARK [3][-]{subsubsection.4.3.3}{Algorithm}{subsection.4.3}% 11
+\BOOKMARK [3][-]{subsubsection.4.3.3}{C Code}{subsection.4.3}% 11
 \BOOKMARK [2][-]{subsection.4.4}{Enclosure and PCB Design}{section.4}% 12
 \BOOKMARK [1][-]{section.5}{Implementation and Results}{}% 13
 \BOOKMARK [2][-]{subsection.5.1}{The effect of noise on the signal}{section.5}% 14

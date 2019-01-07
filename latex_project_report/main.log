@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  3 JAN 2019 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  7 JAN 2019 23:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -858,22 +858,22 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
 \AtBeginShipoutBox=\box66
-Package hyperref Info: Link coloring OFF on input line 72.
+Package hyperref Info: Link coloring OFF on input line 73.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -881,9 +881,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count323
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -928,48 +928,52 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 <images/uom.png, id=83, 307.1475pt x 326.21875pt>
 File: images/uom.png Graphic file (type png)
 <use images/uom.png>
-Package pdftex.def Info: images/uom.png  used on input line 83.
+Package pdftex.def Info: images/uom.png  used on input line 84.
 (pdftex.def)             Requested size: 107.50323pt x 114.17827pt.
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/uom.png>] (/usr/local/texlive/2018/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 125.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 126.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 126.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.138 \newpage
+l.139 \newpage
                [1] (./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  [2]
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 147.
-LaTeX Font Info:    No file OMScmtt.fd. on input line 147.
+Underfull \hbox (badness 10000) in paragraph at lines 147--151
 
-
-LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 147.
+ []
 
 [3]
-<images/sensing.jpg, id=130, 451.6875pt x 451.6875pt>
+<images/block_summary.pdf, id=127, 722.7pt x 204.765pt>
+File: images/block_summary.pdf Graphic file (type pdf)
+<use images/block_summary.pdf>
+Package pdftex.def Info: images/block_summary.pdf  used on input line 167.
+(pdftex.def)             Requested size: 427.43153pt x 121.10712pt.
+<images/sensing.jpg, id=128, 451.6875pt x 451.6875pt>
 File: images/sensing.jpg Graphic file (type jpg)
 <use images/sensing.jpg>
-Package pdftex.def Info: images/sensing.jpg  used on input line 172.
+Package pdftex.def Info: images/sensing.jpg  used on input line 176.
 (pdftex.def)             Requested size: 277.82788pt x 277.84474pt.
- [4 <./images/sensing.jpg>]
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 195.
+ [4 <./images/block_summary.pdf
+
+pdfTeX warning: pdflatex (file ./images/block_summary.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+> <./images/sensing.jpg>]
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 199.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
@@ -980,198 +984,248 @@ Package epstopdf Info: Source file: <images/LM358-Bandpass.eps>
 (epstopdf)                    date: 2018-12-30 13:01:00
 (epstopdf)                    size: 11748 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/LM358-Bandpass-eps-converted-to.pdf images/LM358-Bandpass.eps>
-(epstopdf)             \includegraphics on input line 212.
+(epstopdf)             \includegraphics on input line 216.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/LM358-Bandpass-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/LM358-Bandpass-eps-converted-to.pdf, id=137, 505.89pt x 354.32375pt>
+<images/LM358-Bandpass-eps-converted-to.pdf, id=165, 505.89pt x 354.32375pt>
 File: images/LM358-Bandpass-eps-converted-to.pdf Graphic file (type pdf)
 <use images/LM358-Bandpass-eps-converted-to.pdf>
-Package pdftex.def Info: images/LM358-Bandpass-eps-converted-to.pdf  used on input line 212.
+Package pdftex.def Info: images/LM358-Bandpass-eps-converted-to.pdf  used on input line 216.
 (pdftex.def)             Requested size: 427.43153pt x 299.37622pt.
 [5] [6 <./images/LM358-Bandpass-eps-converted-to.pdf>]
-<images/atmega32.jpg, id=162, 252.6165pt x 177.0615pt>
+<images/atmega32.jpg, id=191, 252.6165pt x 177.0615pt>
 File: images/atmega32.jpg Graphic file (type jpg)
 <use images/atmega32.jpg>
-Package pdftex.def Info: images/atmega32.jpg  used on input line 225.
+Package pdftex.def Info: images/atmega32.jpg  used on input line 229.
 (pdftex.def)             Requested size: 252.61586pt x 177.06104pt.
+<peak_count.pdf, id=192, 391.4625pt x 515.04419pt>
+File: peak_count.pdf Graphic file (type pdf)
+<use peak_count.pdf>
+Package pdftex.def Info: peak_count.pdf  used on input line 238.
+(pdftex.def)             Requested size: 352.31299pt x 463.53549pt.
  [7
 
- <./images/atmega32.jpg>] [8] [9]
-<images/50Hz.jpg, id=266, 2882.77pt x 3832.3175pt>
+ <./images/atmega32.jpg>]
+Package epstopdf Info: Source file: <simulation1_gr1.eps>
+(epstopdf)                    date: 2019-01-05 01:03:57
+(epstopdf)                    size: 69876 bytes
+(epstopdf)             Output file: <simulation1_gr1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-01-05 01:04:17
+(epstopdf)                    size: 31437 bytes
+(epstopdf)             Command: <repstopdf --outfile=simulation1_gr1-eps-converted-to.pdf simulation1_gr1.eps>
+(epstopdf)             \includegraphics on input line 244.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./simulation1_gr1-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<simulation1_gr1-eps-converted-to.pdf, id=198, 473.77pt x 245.91875pt>
+File: simulation1_gr1-eps-converted-to.pdf Graphic file (type pdf)
+<use simulation1_gr1-eps-converted-to.pdf>
+Package pdftex.def Info: simulation1_gr1-eps-converted-to.pdf  used on input line 244.
+(pdftex.def)             Requested size: 379.01651pt x 196.73524pt.
+Package epstopdf Info: Source file: <simulation1_gr2.eps>
+(epstopdf)                    date: 2019-01-05 01:03:57
+(epstopdf)                    size: 71429 bytes
+(epstopdf)             Output file: <simulation1_gr2-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-01-05 01:04:17
+(epstopdf)                    size: 32623 bytes
+(epstopdf)             Command: <repstopdf --outfile=simulation1_gr2-eps-converted-to.pdf simulation1_gr2.eps>
+(epstopdf)             \includegraphics on input line 245.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./simulation1_gr2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<simulation1_gr2-eps-converted-to.pdf, id=199, 466.74374pt x 241.90375pt>
+File: simulation1_gr2-eps-converted-to.pdf Graphic file (type pdf)
+<use simulation1_gr2-eps-converted-to.pdf>
+Package pdftex.def Info: simulation1_gr2-eps-converted-to.pdf  used on input line 245.
+(pdftex.def)             Requested size: 378.06036pt x 195.94095pt.
+
+Package caption Warning: \captionsetup{type*=...} or \captionof
+(caption)                outside box or environment on input line 246.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 246.
+See the caption package documentation for explanation.
+
+[8 <./peak_count.pdf>] [9 <./simulation1_gr1-eps-converted-to.pdf> <./simulation1_gr2-eps-converted-to.pdf>] [10] [11] [12] [13] [14] [15]
+<images/50Hz.jpg, id=552, 2882.77pt x 3832.3175pt>
 File: images/50Hz.jpg Graphic file (type jpg)
 <use images/50Hz.jpg>
-Package pdftex.def Info: images/50Hz.jpg  used on input line 346.
+Package pdftex.def Info: images/50Hz.jpg  used on input line 524.
 (pdftex.def)             Requested size: 216.81pt x 288.1716pt.
-<images/50Hz-z.jpg, id=267, 1248.665pt x 1548.78625pt>
+<images/50Hz-z.jpg, id=553, 1248.665pt x 1548.78625pt>
 File: images/50Hz-z.jpg Graphic file (type jpg)
 <use images/50Hz-z.jpg>
-Package pdftex.def Info: images/50Hz-z.jpg  used on input line 347.
+Package pdftex.def Info: images/50Hz-z.jpg  used on input line 525.
 (pdftex.def)             Requested size: 216.81pt x 268.91472pt.
 
-Overfull \hbox (30.18846pt too wide) in paragraph at lines 343--351
+Overfull \hbox (30.18846pt too wide) in paragraph at lines 521--529
 [][]
  []
 
-<images/50-dom.jpg, id=268, 3830.31pt x 2642.87375pt>
+<images/50-dom.jpg, id=554, 3830.31pt x 2642.87375pt>
 File: images/50-dom.jpg Graphic file (type jpg)
 <use images/50-dom.jpg>
-Package pdftex.def Info: images/50-dom.jpg  used on input line 353.
+Package pdftex.def Info: images/50-dom.jpg  used on input line 531.
 (pdftex.def)             Requested size: 421.3354pt x 290.71701pt.
-[10 <./images/50Hz.jpg> <./images/50Hz-z.jpg>]pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.1}) has been already used, duplicate ignored
+[16 <./images/50Hz.jpg> <./images/50Hz-z.jpg>]pdfTeX warning (ext4): destination with the same identifier (name{subfigure.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.364 \subfloat
+l.542 \subfloat
                [0.1Hz]{\includegraphics[width = 1.9in]{0-1.jpg}}&
-<images/0-1.jpg, id=280, 1047.915pt x 678.535pt>
+<images/0-1.jpg, id=565, 1047.915pt x 678.535pt>
 File: images/0-1.jpg Graphic file (type jpg)
 <use images/0-1.jpg>
-Package pdftex.def Info: images/0-1.jpg  used on input line 364.
+Package pdftex.def Info: images/0-1.jpg  used on input line 542.
 (pdftex.def)             Requested size: 137.31255pt x 88.90633pt.
-pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.2}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.365 \subfloat
+l.543 \subfloat
                [0.2Hz]{\includegraphics[width = 1.9in]{0-2.jpg}}&
-<images/0-2.jpg, id=281, 1043.9pt x 690.58pt>
+<images/0-2.jpg, id=566, 1043.9pt x 690.58pt>
 File: images/0-2.jpg Graphic file (type jpg)
 <use images/0-2.jpg>
-Package pdftex.def Info: images/0-2.jpg  used on input line 365.
+Package pdftex.def Info: images/0-2.jpg  used on input line 543.
 (pdftex.def)             Requested size: 137.31255pt x 90.83229pt.
-<images/0-3.jpg, id=282, 1136.245pt x 708.6475pt>
+<images/0-3.jpg, id=567, 1136.245pt x 708.6475pt>
 File: images/0-3.jpg Graphic file (type jpg)
 <use images/0-3.jpg>
-Package pdftex.def Info: images/0-3.jpg  used on input line 366.
+Package pdftex.def Info: images/0-3.jpg  used on input line 544.
 (pdftex.def)             Requested size: 137.31255pt x 85.62874pt.
 
-Overfull \hbox (20.5061pt too wide) in paragraph at lines 362--369
+Overfull \hbox (20.5061pt too wide) in paragraph at lines 540--547
 [][]
  []
 
-<images/0-4.jpg, id=283, 1120.185pt x 786.94pt>
+<images/0-4.jpg, id=568, 1120.185pt x 786.94pt>
 File: images/0-4.jpg Graphic file (type jpg)
 <use images/0-4.jpg>
-Package pdftex.def Info: images/0-4.jpg  used on input line 375.
+Package pdftex.def Info: images/0-4.jpg  used on input line 553.
 (pdftex.def)             Requested size: 137.31255pt x 96.45802pt.
-<images/0-5.jpg, id=284, 1097.09875pt x 738.76pt>
+<images/0-5.jpg, id=569, 1097.09875pt x 738.76pt>
 File: images/0-5.jpg Graphic file (type jpg)
 <use images/0-5.jpg>
-Package pdftex.def Info: images/0-5.jpg  used on input line 376.
+Package pdftex.def Info: images/0-5.jpg  used on input line 554.
 (pdftex.def)             Requested size: 137.31255pt x 92.45749pt.
-<images/0-6.jpg, id=285, 1116.17pt x 729.72626pt>
+<images/0-6.jpg, id=570, 1116.17pt x 729.72626pt>
 File: images/0-6.jpg Graphic file (type jpg)
 <use images/0-6.jpg>
-Package pdftex.def Info: images/0-6.jpg  used on input line 377.
+Package pdftex.def Info: images/0-6.jpg  used on input line 555.
 (pdftex.def)             Requested size: 137.31255pt x 89.76804pt.
-<images/0-7.jpg, id=286, 1100.11pt x 733.74126pt>
+<images/0-7.jpg, id=571, 1100.11pt x 733.74126pt>
 File: images/0-7.jpg Graphic file (type jpg)
 <use images/0-7.jpg>
-Package pdftex.def Info: images/0-7.jpg  used on input line 379.
+Package pdftex.def Info: images/0-7.jpg  used on input line 557.
 (pdftex.def)             Requested size: 137.31255pt x 91.58307pt.
-<images/0-9.jpg, id=287, 1092.08pt x 670.505pt>
+<images/0-9.jpg, id=572, 1092.08pt x 670.505pt>
 File: images/0-9.jpg Graphic file (type jpg)
 <use images/0-9.jpg>
-Package pdftex.def Info: images/0-9.jpg  used on input line 380.
+Package pdftex.def Info: images/0-9.jpg  used on input line 558.
 (pdftex.def)             Requested size: 137.31255pt x 84.304pt.
-<images/1-2.jpg, id=288, 1119.18124pt x 706.64pt>
+<images/1-2.jpg, id=573, 1119.18124pt x 706.64pt>
 File: images/1-2.jpg Graphic file (type jpg)
 <use images/1-2.jpg>
-Package pdftex.def Info: images/1-2.jpg  used on input line 381.
+Package pdftex.def Info: images/1-2.jpg  used on input line 559.
 (pdftex.def)             Requested size: 137.31255pt x 86.69084pt.
-<images/1-5.jpg, id=289, 1111.15125pt x 686.565pt>
+<images/1-5.jpg, id=574, 1111.15125pt x 686.565pt>
 File: images/1-5.jpg Graphic file (type jpg)
 <use images/1-5.jpg>
-Package pdftex.def Info: images/1-5.jpg  used on input line 383.
+Package pdftex.def Info: images/1-5.jpg  used on input line 561.
 (pdftex.def)             Requested size: 137.31255pt x 84.83565pt.
-<images/2.jpg, id=290, 1117.17375pt x 710.655pt>
+<images/2.jpg, id=575, 1117.17375pt x 710.655pt>
 File: images/2.jpg Graphic file (type jpg)
 <use images/2.jpg>
-Package pdftex.def Info: images/2.jpg  used on input line 384.
+Package pdftex.def Info: images/2.jpg  used on input line 562.
 (pdftex.def)             Requested size: 137.31255pt x 87.34607pt.
-<images/2-5.jpg, id=291, 1116.17pt x 708.6475pt>
+<images/2-5.jpg, id=576, 1116.17pt x 708.6475pt>
 File: images/2-5.jpg Graphic file (type jpg)
 <use images/2-5.jpg>
-Package pdftex.def Info: images/2-5.jpg  used on input line 385.
+Package pdftex.def Info: images/2-5.jpg  used on input line 563.
 (pdftex.def)             Requested size: 137.31255pt x 87.17502pt.
-<images/6.jpg, id=292, 1138.2525pt x 703.62875pt>
+<images/6.jpg, id=577, 1138.2525pt x 703.62875pt>
 File: images/6.jpg Graphic file (type jpg)
 <use images/6.jpg>
-Package pdftex.def Info: images/6.jpg  used on input line 387.
+Package pdftex.def Info: images/6.jpg  used on input line 565.
 (pdftex.def)             Requested size: 137.31255pt x 84.88274pt.
-<images/10.jpg, id=293, 1116.17pt x 696.6025pt>
+<images/10.jpg, id=578, 1116.17pt x 696.6025pt>
 File: images/10.jpg Graphic file (type jpg)
 <use images/10.jpg>
-Package pdftex.def Info: images/10.jpg  used on input line 388.
+Package pdftex.def Info: images/10.jpg  used on input line 566.
 (pdftex.def)             Requested size: 137.31255pt x 85.69328pt.
-<images/15.jpg, id=294, 1021.8175pt x 634.37pt>
+<images/15.jpg, id=579, 1021.8175pt x 634.37pt>
 File: images/15.jpg Graphic file (type jpg)
 <use images/15.jpg>
-Package pdftex.def Info: images/15.jpg  used on input line 389.
+Package pdftex.def Info: images/15.jpg  used on input line 567.
 (pdftex.def)             Requested size: 137.31255pt x 85.23938pt.
 
-Overfull \hbox (28.99213pt too wide) in paragraph at lines 372--392
+Overfull \hbox (28.99213pt too wide) in paragraph at lines 550--570
 []\OT1/cmr/m/n/12 * [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11 <./images/50-dom.jpg> <./images/0-1.jpg> <./images/0-2.jpg> <./images/0-3.jpg>] [12 <./images/0-4.jpg> <./images/0-5.jpg> <./images/0-6.jpg> <./images/0-7.jpg> <./images/0-9.jpg> <./images/1-2.jpg> <./images/1-5.jpg> <./images/2.jpg> <./images/2-5.jpg> <./images/6.jpg> <./images/10.jpg> <./images/15.jpg>]
-<images/bandpass.jpg, id=321, 420.57124pt x 211.79124pt>
+[17 <./images/50-dom.jpg> <./images/0-1.jpg> <./images/0-2.jpg> <./images/0-3.jpg>] [18 <./images/0-4.jpg> <./images/0-5.jpg> <./images/0-6.jpg> <./images/0-7.jpg> <./images/0-9.jpg> <./images/1-2.jpg> <./images/1-5.jpg> <./images/2.jpg> <./images/2-5.jpg> <./images/6.jpg> <./images/10.jpg> <./images/15.jpg>]
+<images/bandpass.jpg, id=594, 420.57124pt x 211.79124pt>
 File: images/bandpass.jpg Graphic file (type jpg)
 <use images/bandpass.jpg>
-Package pdftex.def Info: images/bandpass.jpg  used on input line 400.
+Package pdftex.def Info: images/bandpass.jpg  used on input line 578.
 (pdftex.def)             Requested size: 210.28511pt x 105.89536pt.
-pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.412 \subfloat
-               [Variying amplitudes]{\includegraphics[width = 2.9in]{test1.j...
-<images/test1.jpg, id=323, 724.7075pt x 590.205pt>
+l.590 \subfloat
+               [Varying amplitudes]{\includegraphics[width = 2.9in]{test1.jp...
+<images/test1.jpg, id=596, 724.7075pt x 590.205pt>
 File: images/test1.jpg Graphic file (type jpg)
 <use images/test1.jpg>
-Package pdftex.def Info: images/test1.jpg  used on input line 412.
+Package pdftex.def Info: images/test1.jpg  used on input line 590.
 (pdftex.def)             Requested size: 209.58255pt x 170.67775pt.
-pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.2}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.413 \subfloat
+l.591 \subfloat
                [Amplitude Gradually decreasing]{\includegraphics[width = 2.9...
-<images/test2.jpg, id=324, 724.7075pt x 590.205pt>
+<images/test2.jpg, id=597, 724.7075pt x 590.205pt>
 File: images/test2.jpg Graphic file (type jpg)
 <use images/test2.jpg>
-Package pdftex.def Info: images/test2.jpg  used on input line 413.
+Package pdftex.def Info: images/test2.jpg  used on input line 591.
 (pdftex.def)             Requested size: 209.58255pt x 170.67775pt.
 
-Overfull \hbox (15.73357pt too wide) in paragraph at lines 411--415
+Overfull \hbox (15.73357pt too wide) in paragraph at lines 589--593
 [][]
  []
 
-<images/breadboardmonitorwaveform.jpg, id=325, 766.865pt x 295.1025pt>
+<images/breadboardmonitorwaveform.jpg, id=598, 766.865pt x 295.1025pt>
 File: images/breadboardmonitorwaveform.jpg Graphic file (type jpg)
 <use images/breadboardmonitorwaveform.jpg>
-Package pdftex.def Info: images/breadboardmonitorwaveform.jpg  used on input line 421.
+Package pdftex.def Info: images/breadboardmonitorwaveform.jpg  used on input line 599.
 (pdftex.def)             Requested size: 320.57364pt x 123.36131pt.
-<images/res1.jpg, id=328, 730.73pt x 665.48625pt>
+<images/res1.jpg, id=601, 730.73pt x 665.48625pt>
 File: images/res1.jpg Graphic file (type jpg)
 <use images/res1.jpg>
-Package pdftex.def Info: images/res1.jpg  used on input line 431.
+Package pdftex.def Info: images/res1.jpg  used on input line 609.
 (pdftex.def)             Requested size: 255.75932pt x 232.92368pt.
-[13
+[19
 
- <./images/bandpass.jpg> <./images/test1.jpg> <./images/test2.jpg>] [14 <./images/res1.jpg> <./images/breadboardmonitorwaveform.jpg>] [15
+ <./images/bandpass.jpg> <./images/test1.jpg> <./images/test2.jpg>] [20 <./images/res1.jpg> <./images/breadboardmonitorwaveform.jpg>] [21
 
-] [16]
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 462.
+]
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 627.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 461--463
+Underfull \hbox (badness 10000) in paragraph at lines 626--628
 
  []
 
-[17] (./main.bbl
+[22] (./main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
 []\OT1/cmr/m/n/12 Analog read-ings with avr.  []$\OT1/cmtt/m/n/12 https : / / maker . pro / custom / tutorial /
  []
@@ -1181,33 +1235,34 @@ Underfull \hbox (badness 1622) in paragraph at lines 22--26
 []\OT1/cmr/m/n/12 Harvard heart let-ter.  []$\OT1/cmtt/m/n/12 https : / / www . health . harvard . edu / heart-[]health /
  []
 
-) [18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 472.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 472.
+
+Underfull \hbox (badness 1975) in paragraph at lines 28--32
+[]\OT1/cmr/m/n/12 Ppg sens-ing il-lus-tra-tion.  []$\OT1/cmtt/m/n/12 https : / / global . epson . com / innovation / core _
+ []
+
+) [23]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 637.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 637.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 472.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 472.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 637.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 637.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 92F5FC573BC70C7EF2CEED5E92FB5255;1300.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 472.
+(rerunfilecheck)             Checksum: B04BF52B5B581F3165C6424C5BED35B5;1313.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 637.
  ) 
 Here is how much of TeX's memory you used:
- 40024 strings out of 492649
- 850104 string characters out of 6129621
- 1124272 words of memory out of 5000000
- 43259 multiletter control sequences out of 15000+600000
+ 39625 strings out of 492649
+ 838490 string characters out of 6129621
+ 1122272 words of memory out of 5000000
+ 42699 multiletter control sequences out of 15000+600000
  542769 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,16n,56p,10492b,2315s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,16n,56p,10492b,2362s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on main.pdf (19 pages, 7119325 bytes).
+Output written on main.pdf (24 pages, 7291656 bytes).
 PDF statistics:
- 457 PDF objects out of 1000 (max. 8388607)
- 384 compressed objects within 4 object streams
- 153 named destinations out of 1000 (max. 500000)
- 300 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 759 PDF objects out of 1000 (max. 8388607)
+ 633 compressed objects within 7 object streams
+ 312 named destinations out of 1000 (max. 500000)
+ 320 words of extra memory for PDF output out of 10000 (max. 10000000)
 
