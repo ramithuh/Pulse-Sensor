@@ -1,6 +1,6 @@
 #### EN1093 - Laboratory Practice - Group Project 
 
-![Work in Progress](https://img.shields.io/badge/Work-In--Progress-purple.svg?longCache=true&style=popout-square)
+![Work in Progress](https://img.shields.io/github/issues/ramithuh/Pulse-Sensor.svg)
 
 
 [https://blog.ramith.fyi/static/creating-a-pulse-sensor-from-scratch](https://blog.ramith.fyi/static/creating-a-pulse-sensor-from-scratch)
