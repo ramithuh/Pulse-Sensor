@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  7 JAN 2019 23:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.22)  8 JAN 2019 01:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1217,11 +1217,11 @@ Package pdftex.def Info: images/res1.jpg  used on input line 609.
  <./images/bandpass.jpg> <./images/test1.jpg> <./images/test2.jpg>] [20 <./images/res1.jpg> <./images/breadboardmonitorwaveform.jpg>] [21
 
 ]
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 627.
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 630.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 626--628
+Underfull \hbox (badness 10000) in paragraph at lines 629--631
 
  []
 
@@ -1241,25 +1241,25 @@ Underfull \hbox (badness 1975) in paragraph at lines 28--32
  []
 
 ) [23]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 637.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 637.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 640.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 640.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 637.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 637.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 640.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 640.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B04BF52B5B581F3165C6424C5BED35B5;1313.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 637.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 640.
  ) 
 Here is how much of TeX's memory you used:
  39625 strings out of 492649
  838490 string characters out of 6129621
- 1122272 words of memory out of 5000000
+ 1122271 words of memory out of 5000000
  42699 multiletter control sequences out of 15000+600000
  542769 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,16n,56p,10492b,2362s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-Output written on main.pdf (24 pages, 7291656 bytes).
+Output written on main.pdf (24 pages, 7291650 bytes).
 PDF statistics:
  759 PDF objects out of 1000 (max. 8388607)
  633 compressed objects within 7 object streams
