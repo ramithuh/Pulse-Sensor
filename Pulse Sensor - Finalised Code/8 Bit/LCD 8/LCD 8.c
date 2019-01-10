@@ -75,8 +75,6 @@ void regression(int data_points[],double n){
 	double squarex= (n)*(n+1)*(2*n+1)/6.0;
 	double xbar = (n+1)/2.0;
 	double ybar = sumit(data_points,n)/n;
-    
-    //printf(" xbar=%f, ybar=%f, squarex=%f, xysum =%f\n",xbar,ybar,squarex,xysum(data_points,n));
 
 	m=(xysum(data_points,n)- n*xbar*ybar)/( squarex - n*xbar*xbar );
 	c=ybar-m*xbar;
